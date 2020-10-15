@@ -5,7 +5,7 @@ class Controls extends Component {
 
     render(){
         return(<div>
-            <div>My Fluent UI Welcome</div>
+            <div>My Fluent UI Welcome 21</div>
             <div>Button</div>
             <div>
             <DefaultButton text="Standard"  />
